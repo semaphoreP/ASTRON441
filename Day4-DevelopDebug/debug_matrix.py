@@ -43,7 +43,7 @@ for i in range(dim):
     for j in range(dim2):
         # generate new RGB pixel
         pixel_rgb = generate_rgb_pixel(j, i)
-        new_image[j, i] = pixel_rgb
+        new_image[i, j] = pixel_rgb
 
 
 # plot the resulting image. 
