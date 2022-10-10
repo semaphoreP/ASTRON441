@@ -30,3 +30,14 @@ VS Code supports preview for Markdown. After you open up a Markdown file, click 
 
 Images can be accessed if they are together with the Markdown file, or if you have a URL to one. 
 
+### Markdown Resources
+
+Here are some links that demonstrate more Markdown capabilties:
+
+ * https://www.markdownguide.org/basic-syntax
+ * [Writing READMEs on Github](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/quickstart-for-writing-on-github)
+
+
+## Final Thoughts
+
+READMEs should not be too long! If it's taking a long time to scroll through a README, maybe you should invest in making a full documentation website (e.g., using Sphinx).
